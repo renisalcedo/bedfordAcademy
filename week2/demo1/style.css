@@ -1,0 +1,20 @@
+body {
+  background-color: #ecf0f1;
+}
+
+.app {
+  text-align: center;
+}
+
+h1 {
+  color: #3498db;
+  transition: color 1s;
+}
+
+.notouch {
+  color: #e74c3c;
+}
+
+h1:hover {
+  color: #2ecc71;
+}
