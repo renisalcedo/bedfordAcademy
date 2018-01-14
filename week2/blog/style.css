@@ -1,0 +1,40 @@
+/*****************************/
+/***** ADDS A SOFT RESET *****/
+/*****************************/
+
+/* Asteriks select all element in site */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  margin-top: 8rem;
+}
+
+div.mast-head {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+/*****************************/
+/******* POSTS SECTION *******/
+/*****************************/
+.main-text {
+  margin-bottom: 5rem;
+}
+
+div.jumbotron {
+  padding: 2%;
+}
+
+p.blog-post {
+  padding:0;
+  letter-spacing: .1rem;
+}
+
+/******************************************/
+/***************** TODO *******************/
+/*** ADD MORE CUSTOM STYLES OF YOUR OWN ***/
+/******************************************/
